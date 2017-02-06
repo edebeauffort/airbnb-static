@@ -1,0 +1,19 @@
+/* line 1, /Users/edouard/code/edebeauffort/airbnb-static/source/stylesheets/components/avatar.css.scss */
+.avatar {
+  width: 30px;
+  border-radius: 50%; }
+
+/* line 6, /Users/edouard/code/edebeauffort/airbnb-static/source/stylesheets/components/avatar.css.scss */
+.avatar-team {
+  width: 100px;
+  border-radius: 50%;
+  margin: 20px; }
+
+/* line 11, /Users/edouard/code/edebeauffort/airbnb-static/source/stylesheets/components/avatar.css.scss */
+.avatar-bordered {
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+  border: white 1px solid; }
+
+/* line 15, /Users/edouard/code/edebeauffort/airbnb-static/source/stylesheets/components/avatar.css.scss */
+.avatar-large {
+  width: 50px; }
